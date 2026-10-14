@@ -42,3 +42,6 @@ $cat1->sayHello();
 
 $cat2 = new Cat('Барсик', 'синий');
 $cat2->sayHello();
+
+
+
